@@ -1,0 +1,48 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElJoyAspireDashboard.AppHost", "ElJoyAspireDashboard.AppHost\ElJoyAspireDashboard.AppHost.csproj", "{1C3D9299-CE7D-4F5D-BE8D-0CAD115973B0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElJoyAspireDashboard.ServiceDefaults", "ElJoyAspireDashboard.ServiceDefaults\ElJoyAspireDashboard.ServiceDefaults.csproj", "{21351D2A-1430-44E4-8A12-EB555E23B8C4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElJoyAspireDashboard.ApiService", "ElJoyAspireDashboard.ApiService\ElJoyAspireDashboard.ApiService.csproj", "{C1EE83FC-B881-4AD7-AB2A-DEA0DCE40362}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElJoyAspireDashboard.Web", "ElJoyAspireDashboard.Web\ElJoyAspireDashboard.Web.csproj", "{A0113C3B-DE0B-4B38-9F9A-8C0D6B1CC883}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElJoyAspireDashboard.Tests", "ElJoyAspireDashboard.Tests\ElJoyAspireDashboard.Tests.csproj", "{4062F20F-8253-4EFF-9A47-8E761DA98716}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C3D9299-CE7D-4F5D-BE8D-0CAD115973B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C3D9299-CE7D-4F5D-BE8D-0CAD115973B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C3D9299-CE7D-4F5D-BE8D-0CAD115973B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C3D9299-CE7D-4F5D-BE8D-0CAD115973B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21351D2A-1430-44E4-8A12-EB555E23B8C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21351D2A-1430-44E4-8A12-EB555E23B8C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21351D2A-1430-44E4-8A12-EB555E23B8C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21351D2A-1430-44E4-8A12-EB555E23B8C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1EE83FC-B881-4AD7-AB2A-DEA0DCE40362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1EE83FC-B881-4AD7-AB2A-DEA0DCE40362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1EE83FC-B881-4AD7-AB2A-DEA0DCE40362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1EE83FC-B881-4AD7-AB2A-DEA0DCE40362}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0113C3B-DE0B-4B38-9F9A-8C0D6B1CC883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0113C3B-DE0B-4B38-9F9A-8C0D6B1CC883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0113C3B-DE0B-4B38-9F9A-8C0D6B1CC883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0113C3B-DE0B-4B38-9F9A-8C0D6B1CC883}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4062F20F-8253-4EFF-9A47-8E761DA98716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4062F20F-8253-4EFF-9A47-8E761DA98716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4062F20F-8253-4EFF-9A47-8E761DA98716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4062F20F-8253-4EFF-9A47-8E761DA98716}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D239CE30-02A6-4468-95BC-715A986BB262}
+	EndGlobalSection
+EndGlobal
